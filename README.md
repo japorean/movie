@@ -1,1 +1,1 @@
-movie.html
+movie
